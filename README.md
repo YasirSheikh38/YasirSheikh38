@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI Engineer from Pakistan</h3>
 
 
-- 🌱 I’m currently learning **LangGraph, LangChain (Agents, Tools, Memory), Retrieval-Augmented Generation (RAG), Hugging Face Transformers, LLaMA Models, Prompt Engineering, Docker, and Cloud Deployments (Azure/AWS)**
+- 🌱 I’m currently learning **LangGraph, LangChain (Agents, Tools, Memory), Retrieval-Augmented Generation (RAG), Hugging Face Transformers, Ollama Models, Prompt Engineering, Docker, and Cloud Deployments (Azure/AWS)**
 
 - 🤝 I’m looking for help with **AI Agents and Autonomous Agents**
 
